@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyCProject00",
+			"Path": "C:\\Users\\SGA\\Documents\\Mingyu\\Source\\MyCProject00.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyCProject00Editor",
+			"Path": "C:\\Users\\SGA\\Documents\\Mingyu\\Source\\MyCProject00Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

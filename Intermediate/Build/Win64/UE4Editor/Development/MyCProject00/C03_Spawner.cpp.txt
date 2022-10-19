@@ -1,0 +1,17 @@
+C:\Users\SGA\Documents\Mingyu\Intermediate\Build\Win64\UE4Editor\Development\MyCProject00\Definitions.MyCProject00.h
+c:\users\sga\documents\mingyu\source\mycproject00\01_actor\C03_Spawner.h
+C:\Users\SGA\Documents\Mingyu\Intermediate\Build\Win64\UE4Editor\Inc\MyCProject00\C03_Spawner.generated.h
+c:\users\sga\documents\mingyu\source\mycproject00\01_actor\C02_SpawnActor.h
+C:\Users\SGA\Documents\Mingyu\Intermediate\Build\Win64\UE4Editor\Inc\MyCProject00\C02_SpawnActor.generated.h
+C:\Users\SGA\Documents\Mingyu\Source\MyCProject00\Global.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+c:\program files\epic games\ue_4.25\engine\source\runtime\engine\classes\kismet\KismetMathLibrary.inl
+c:\users\sga\documents\mingyu\source\mycproject00\Utilities/CHelpers.h
+c:\users\sga\documents\mingyu\source\mycproject00\Utilities/Defines.h
+c:\users\sga\documents\mingyu\source\mycproject00\Utilities/CLog0.h
